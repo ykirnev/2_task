@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/arsenii_evdokimov/CLionProjects/cpp-prac/cppPrac-2 Select CMakeLists.txt
